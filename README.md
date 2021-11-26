@@ -1,5 +1,4 @@
 # Machine-Learning_Assignment:
-In pursuing the course of Machine Learning we were given an assignment to create a multilabel classifiers. 
 
 Build a Machine Learning model which will automatically label your emails as per the labels 
 defined by you. You must be familiar with the labelling feature of Gmail. You have to manually 
